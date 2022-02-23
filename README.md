@@ -1,0 +1,2 @@
+# MC_DTG
+MineCraftJavaEdition用のデータパックのテンプレートを生成するWindows用アプリケーション
