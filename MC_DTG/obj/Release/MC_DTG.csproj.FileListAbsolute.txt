@@ -1,0 +1,14 @@
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\obj\Release\MC_DTG.csproj.AssemblyReference.cache
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\obj\Release\MC_DTG.csproj.SuggestedBindingRedirects.cache
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\obj\Release\MC_DTG.MainForm.resources
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\obj\Release\MC_DTG.Properties.Resources.resources
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\obj\Release\MC_DTG.csproj.GenerateResource.cache
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\bin\Release\MC_DTG.exe.config
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\bin\Release\MC_DTG.exe
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\bin\Release\Microsoft.WindowsAPICodePack.xml
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\bin\Release\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\obj\Release\MC_DTG.csproj.CoreCompileInputs.cache
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\obj\Release\MC_DTG.csproj.CopyComplete
+C:\Users\akatu\OneDrive\デスクトップ\MC_DTG\MC_DTG\obj\Release\MC_DTG.exe
