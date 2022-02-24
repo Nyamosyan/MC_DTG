@@ -34,24 +34,24 @@ namespace MC_DTG
         public class Pack
         {
             [System.Runtime.Serialization.DataMember()]
-            public int Pack_format { get; set; }
+            public int pack_format { get; set; }
 
             [System.Runtime.Serialization.DataMember()]
-            public string Description { get; set; }
+            public string description { get; set; }
         }
 
         [System.Runtime.Serialization.DataContract]
         public class MCMeta
         {
             [System.Runtime.Serialization.DataMember()]
-            public Pack Pack { get; set; }
+            public Pack pack { get; set; }
         }
 
         [System.Runtime.Serialization.DataContract]
         public class Json
         {
             [System.Runtime.Serialization.DataMember()]
-            public List<string> Values { get; set; }
+            public List<string> values { get; set; }
         }
 
         private readonly Datapack datapack = new Datapack();
@@ -102,12 +102,12 @@ namespace MC_DTG
                 //:保存先\<データパック名>
                 var pack = new Pack()
                 {
-                    Pack_format = datapack.PackFormat,
-                    Description = datapack.Description
+                    pack_format = datapack.PackFormat,
+                    description = datapack.Description
                 };
                 var mcmeta = new MCMeta()
                 {
-                    Pack = pack
+                    pack = pack
                 };
                 CreateFile(path, "pack.mcmeta", typeof(MCMeta), mcmeta);
                 path += "\\data";
@@ -131,7 +131,7 @@ namespace MC_DTG
                     };
                     var json = new Json()
                     {
-                        Values = list
+                        values = list
                     };
                     CreateFile(path_minecraft, $"{s}.json", typeof(Json), json);
                 }
