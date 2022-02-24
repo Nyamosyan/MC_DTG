@@ -146,6 +146,19 @@ namespace MC_DTG
                     _ = Directory.CreateDirectory($"{path_namespace}\\{s}");
                 }
 
+                //:保存先\<データパック名>\data\<名前空間>\functions
+                string path_datapacks = $"{path_namespace}\\functions";
+                string[] vs = new string[2]
+                {
+                    "load","tick"
+                };
+                foreach(string s in vs)
+                {
+                    StreamWriter writer = new StreamWriter($"{path_datapacks}\\{s}.mcfunction", false);
+                    writer.Write($"#{s}");
+                    writer.Close();
+                }
+
                 //:保存先\<データパック名>\data\<名前空間>\tags
                 var path_tags = $"{path_namespace}\\tags";
                 var tags_under = new string[5]
