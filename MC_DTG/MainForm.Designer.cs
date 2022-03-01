@@ -111,7 +111,8 @@
             resources.GetString("VersionComboBox.Items1"),
             resources.GetString("VersionComboBox.Items2"),
             resources.GetString("VersionComboBox.Items3"),
-            resources.GetString("VersionComboBox.Items4")});
+            resources.GetString("VersionComboBox.Items4"),
+            resources.GetString("VersionComboBox.Items5")});
             resources.ApplyResources(this.VersionComboBox, "VersionComboBox");
             this.VersionComboBox.Name = "VersionComboBox";
             // 

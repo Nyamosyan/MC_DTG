@@ -415,7 +415,10 @@
     <value>7 (1.17-1.17.1)</value>
   </data>
   <data name="VersionComboBox.Items4" xml:space="preserve">
-    <value>8 (1.18-)</value>
+    <value>8 (1.18-1.18.1)</value>
+  </data>
+  <data name="VersionComboBox.Items5" xml:space="preserve">
+    <value>9 (1.18.2-)</value>
   </data>
   <data name="VersionComboBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 67</value>
@@ -487,9 +490,6 @@
         QDABgGACAMEEAIIJAAQTAAgmABBMACCYAEAwAYBgAgDBBACC1b65PAMD7kev8vvXITsACCYAEEwAIJgA
         QDABgGACAMEEAIIJAAQTAAgmABBMACCYAEAwAYBgAgDBBACC/QfrmMDblfP0zgAAAABJRU5ErkJggg==
 </value>
-  </data>
-  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
