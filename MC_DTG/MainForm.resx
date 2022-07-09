@@ -418,7 +418,10 @@
     <value>8 (1.18-1.18.1)</value>
   </data>
   <data name="VersionComboBox.Items5" xml:space="preserve">
-    <value>9 (1.18.2-)</value>
+    <value>9 (1.18.2)</value>
+  </data>
+  <data name="VersionComboBox.Items6" xml:space="preserve">
+    <value>10(1.19)</value>
   </data>
   <data name="VersionComboBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>12, 67</value>
