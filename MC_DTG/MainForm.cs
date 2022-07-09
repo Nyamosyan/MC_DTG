@@ -75,7 +75,7 @@ namespace MC_DTG
                 datapack.Name = NameTextBox.Text;
                 datapack.Namespace = NamespaceTextBox.Text;
                 datapack.Description = DescriptionTextBox.Text;
-                _ = int.TryParse(VersionComboBox.SelectedItem.ToString()[0].ToString(), out datapack.PackFormat);
+                _ = int.TryParse(VersionComboBox.SelectedItem.ToString().Split('(')[0], out datapack.PackFormat);
 
                 bool isEnd = false;
                 if (datapack.Name == "")
